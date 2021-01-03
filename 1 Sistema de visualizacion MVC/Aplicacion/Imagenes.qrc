@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="fondos">
+    <file>1.jpg</file>
+    <file>2.jpg</file>
+    <file>5.jpg</file>
+    <file>6.jpg</file>
+    <file>PhotoCollage_1583707454901.jpg</file>
+    <file>PhotoCollage_1583707519841.jpg</file>
+    <file>PhotoCollage_1583707690263.jpg</file>
+  </qresource>
+</RCC>
